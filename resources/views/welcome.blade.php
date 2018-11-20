@@ -84,7 +84,7 @@
                 <div class="links ubuntu">
                     <a href="/login">Iniciar Sesión</a>
                     <a href="/nueva-pqr">Nueva PQR</a>
-                    <a href="https://github.com/SebasAyala/Proyecto-PQR">GitHub</a>
+                    <a href="https://github.com/SebasAyala/ProyectoPQR">GitHub</a>
                 </div>
             </div>
         </div>
